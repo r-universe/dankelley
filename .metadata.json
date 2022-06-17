@@ -1,0 +1,14 @@
+[
+  {
+    "package": "oce",
+    "oncran": true
+  },
+  {
+    "package": "ocedata",
+    "oncran": true
+  },
+  {
+    "package": "plan",
+    "oncran": true
+  }
+]
