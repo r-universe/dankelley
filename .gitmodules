@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "plan"]
-	path = plan
-	url = https://github.com/dankelley/plan
-	shallow = true
-	registered = true
 [submodule "oce"]
 	path = oce
 	url = https://github.com/dankelley/oce
@@ -16,5 +11,10 @@
 [submodule "ocedata"]
 	path = ocedata
 	url = https://github.com/dankelley/ocedata
+	shallow = true
+	registered = true
+[submodule "plan"]
+	path = plan
+	url = https://github.com/dankelley/plan
 	shallow = true
 	registered = true
