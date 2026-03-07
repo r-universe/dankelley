@@ -11,3 +11,6 @@
 [submodule "plan"]
 	path = plan
 	url = https://github.com/dankelley/plan
+[submodule "whalestrike"]
+	path = whalestrike
+	url = https://github.com/dankelley/whalestrike
